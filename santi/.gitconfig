@@ -1,8 +1,8 @@
 [includeIf "gitdir:Hub/"]
-	path = .gitconfig-github
+	path = .config/gitconfig-github
 
 [includeIf "gitdir:Documents/"]
-	path = .gitconfig-adventos
+	path = .config/gitconfig-adventos
 
 [user]
 	name = Santiago Andrés Ardiles Páez
